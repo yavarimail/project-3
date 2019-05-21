@@ -1,11 +1,11 @@
 program Project1;
-
+vvvvvvvvvvvvvvvvvvvv
 uses
   Vcl.Forms,
   Unit1 in 'Unit1.pas' {Form1};
-
+vvvvvvvvvvvvvv
 {$R *.res}
-
+vvvvvvvvvvvvvvvvvvvvv
 begin
   Application.Initialize;
   Application.MainFormOnTaskbar := True;
